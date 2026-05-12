@@ -5,6 +5,7 @@
 #include <unistd.h>
 #include <string.h>
 #include <signal.h>
+#include <stdio.h>
 #include <errno.h>
 
 struct Node {
